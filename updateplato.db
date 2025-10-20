@@ -1,5 +1,5 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "expires": "01-10-2025",
   "title": "تحديث متوفر",
   "message": "احصل على أحدث الميزات والتحسينات.",
