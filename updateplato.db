@@ -1,5 +1,8 @@
 {
-  "versionName": "9.9.10",
-  "Msg": "تحديث جديد متوفر! يُرجى تحديث التطبيق لمتابعة استخدامه.\n\nالجديد في هذا الإصدار:\n- تحسينات في الأداء.\n- إصلاحات للأخطاء.\n- ميزات جديدة مُضافة.\n- تغييرات طفيفة أخرى.\n\nشكرًا لاستخدامك تطبيقنا.",
-  "downloadLink": "https://t.me/plato7z"
+  "showDialog": true,
+  "expires": "01-10-2025",
+  "title": "UPDATE AVAILABLE",
+  "message": "Get the newest features and improvements.",
+  "UpdateButtonText": "DOWNLOAD",
+  "UpdateButtonUrl": "https://t.me/plato7z"
 }
