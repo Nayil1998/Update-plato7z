@@ -1,5 +1,8 @@
 {
   "showDialog": true,
-  "title": "تنبيه",
-  "message": "هذه رسالة عادية للمستخدم، يمكنه إغلاقها متى شاء."
+  "expires": "01-10-2025",
+  "title": "تحديث متوفر",
+  "message": "احصل على أحدث الميزات والتحسينات.",
+  "UpdateButtonText": "تنزيل",
+  "UpdateButtonUrl": "https://t.me/plato7z"
 }
