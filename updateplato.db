@@ -1,8 +1,8 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "expires": "01-10-2025",
-  "title": "تحديث متوفر",
-  "message": "احصل على أحدث الميزات والتحسينات.",
-  "UpdateButtonText": "تنزيل",
-  "UpdateButtonUrl": "https://t.me/plato7z"
+  "title": "Hero",
+  "message": "نزل فيديوجديد لازم تشوفه .",
+  "UpdateButtonText": "مشاهدة",
+  "UpdateButtonUrl": "https://m.youtube.com/@heroplato"
 }
