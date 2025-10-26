@@ -1,6 +1,6 @@
 {
-  "showDialog": false,
-  "expires": "23-10-2025",
+  "showDialog": true,
+  "expires": "26-10-2025",
   "title": "Hero",
   "message": "نزل فيديو جديد لازم تشوفه .",
   "UpdateButtonText": "مشاهدة",
